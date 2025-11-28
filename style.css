@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    padding:0px;
+    color: white;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+
+}
+a{
+    padding-top:10px;
+    padding-right: 30px;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+.h1{
+    font-size: 40px;
+    color: white;
+}
+body{
+    background-color: #290d06;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text{
+    margin-top: 60px;
+    font-size: 30px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-weight: 800px;
+    border-radius: 20px;
+    curser:pointer;
+    padding: 10px;;
+
+}
+.btn.hover{
+    background-color: transparent;
+    color:black;
+    boder:1px soild black;
+}
